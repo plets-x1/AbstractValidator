@@ -8,7 +8,7 @@
     <ProjectGuid>{FDAFD084-C879-4ADF-84F1-7C1D5E21016A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Lesse.Factory.Xmi.AbstractValidator</RootNamespace>
+    <RootNamespace>AbstractValidator</RootNamespace>
     <AssemblyName>AbstractValidator</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
